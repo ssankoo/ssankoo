@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A CS student from Buenos Aires, Argentina</h3>
 
 - 🌱 I’m currently learning **React and React Native**
-
-- 📫 How to reach me **manuelsaniez02@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/manuel-saniez/](https://www.linkedin.com/in/manuel-saniez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
