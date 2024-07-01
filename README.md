@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">CS student from Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently learning **React & React Native**
+- 🌱 I’m currently learning **NextJS & Godot**
 
 - 📫 How to reach me **fumimatcha@gmail.com**
 
