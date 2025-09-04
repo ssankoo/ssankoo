@@ -1,4 +1,3 @@
-hi :D cs student from Buenos Aires, Argentina.
-i'm mainly interested in game and web/app development!
+hi, fumi here
 
-i'm working with godot and nextjs at the moment
+[![My Skills](https://skillicons.dev/icons?i=git,github,express,docker,linux,arch,bash,neovim,cs,js,lua,py,&perline=5)](https://skillicons.dev)
