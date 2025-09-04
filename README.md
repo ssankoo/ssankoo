@@ -1,7 +1,12 @@
 <div align="center">
-  <h1>Fumi</h1>
-  I just like to mess around with the computer :D
+  <h1>fumi</h1>
+  i like to mess around with the puter :D
 </div>
-<div>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,cmake,rust,discordjs,discord,electron,nodejs,py,vscode,windows)](https://skillicons.dev)
+<div align="center">
+  <p>tech i like!</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,linux,arch,cs,py,js,nextjs,nodejs" />
+  </a>
+    <p>would be poggers to actually build something for once XD</p>
 </div>
